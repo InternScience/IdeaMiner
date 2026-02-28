@@ -102,7 +102,7 @@ IdeaMiner/
 
 ## 📦 Dependencies
 
-This project uses [StructAI](https://github.com/xuwanghan/structai) as its core utility library, which provides the `LLMAgent`, `load_file`, `save_file`, and other helpers used throughout the codebase.
+This project uses [StructAI](https://github.com/black-yt/structai) as its core utility library, which provides the `LLMAgent`, `load_file`, `save_file`, and other helpers used throughout the codebase.
 
 ---
 
@@ -234,6 +234,17 @@ Each ranked question includes:
 <p align="center">
   <img src="assets/Wechat-QR.png" alt="WeChat Community" width="200">
 </p>
+
+---
+
+## 🌟 Star History
+
+If you find this work helpful, please consider to **star⭐** this [repo](https://github.com/InternScience/IdeaMiner). Thanks for your support! 🤩
+
+[![InternScience/IdeaMiner Stargazers](https://reporoster.com/stars/InternScience/IdeaMiner)](https://github.com/InternScience/IdeaMiner/stargazers)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=InternScience/IdeaMiner&type=date&legend=top-left)](https://www.star-history.com/#InternScience/IdeaMiner&type=date&legend=top-left)
+
 
 ---
 
