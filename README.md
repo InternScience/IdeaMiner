@@ -55,12 +55,12 @@ Browse and save ideas from your personal library. Each card shows the research q
 ```mermaid
 flowchart TD
     A["📄 Config File<br>field · keywords · research_type · granularity"]
-    A --> B["🤖 Step 1 · Generator\nagents/step_1_generator.py"]
-    B --> C["📝 30 Raw Research Questions\ndata/raw_questions/*.json"]
-    C --> D["🔍 Step 2 · Evaluator\nagents/step_2_evaluator.py"]
-    D --> E["🧹 Deduplication\nEmbedding-based Cosine Similarity"]
-    E --> F["⭐ Group-Based Scoring\nnovelty · feasibility · significance"]
-    F --> G["🏆 Ranked Questions\ndata/evaluated_questions/"]
+    A --> B["🤖 Step 1 · Generator<br>agents/step_1_generator.py"]
+    B --> C["📝 30 Raw Research Questions<br>data/raw_questions/*.json"]
+    C --> D["🔍 Step 2 · Evaluator<br>agents/step_2_evaluator.py"]
+    D --> E["🧹 Deduplication<br>Embedding-based Cosine Similarity"]
+    E --> F["⭐ Group-Based Scoring<br>novelty · feasibility · significance"]
+    F --> G["🏆 Ranked Questions<br>data/evaluated_questions/"]
 ```
 
 **Step 1 – Generation** (`agents/step_1_generator.py`):
