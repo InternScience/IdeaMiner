@@ -229,10 +229,10 @@ Each ranked question includes:
 ## 📬 Contact
 
 - **GitHub Issues**: Please open an issue for bug reports or feature requests
-- **Community**:
+- **Wechat Mini Program**:
 
 <p align="center">
-  <img src="assets/Wechat-QR.png" alt="WeChat Community" width="200">
+  <img src="assets/Wechat-QR.png" alt="WeChat Mini Program" width="200">
 </p>
 
 ---
