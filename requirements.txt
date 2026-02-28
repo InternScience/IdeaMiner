@@ -1,0 +1,25 @@
+# Core utility library (LLM wrapper, I/O, concurrency, string parsing)
+structai
+
+# LangChain stack (used by utils/langchain_agent.py and utils/langchain_tools.py)
+langchain>=0.3.0
+langchain-openai>=0.2.0
+
+# Similarity filtering in the evaluation pipeline
+scikit-learn>=1.3.0
+numpy>=1.24.0
+
+# Tokenizer support for HuggingFace embedding models (e.g. Qwen3-Embedding-8B)
+transformers>=4.40.0
+
+# Web search tool
+tavily-python>=0.3.0
+
+# HTTP client (used by LangChain and langchain_agent proxy support)
+httpx>=0.27.0
+
+# LRU cache for tool results
+cachetools>=5.3.0
+
+# Academic paper search (standalone utils/tools.py)
+requests>=2.31.0
