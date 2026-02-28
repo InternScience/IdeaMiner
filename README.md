@@ -54,7 +54,7 @@ Browse and save ideas from your personal library. Each card shows the research q
 
 ```mermaid
 flowchart TD
-    A["📄 Config File\nfield · keywords · research_type · granularity"]
+    A["📄 Config File<br>field · keywords · research_type · granularity"]
     A --> B["🤖 Step 1 · Generator\nagents/step_1_generator.py"]
     B --> C["📝 30 Raw Research Questions\ndata/raw_questions/*.json"]
     C --> D["🔍 Step 2 · Evaluator\nagents/step_2_evaluator.py"]
