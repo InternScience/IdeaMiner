@@ -6,7 +6,7 @@
 <div align="center">
 
 [![Official Site](https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage)](https://discovery-ideaminer.intern-ai.org.cn/)&#160;
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/xuwanghan/IdeaMiner)&#160;
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/InternScience/IdeaMiner)&#160;
 
 </div>
 
