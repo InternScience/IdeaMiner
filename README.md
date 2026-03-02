@@ -245,7 +245,6 @@ If you find this work helpful, please consider to **star⭐** this [repo](https:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=InternScience/IdeaMiner&type=date&legend=top-left)](https://www.star-history.com/#InternScience/IdeaMiner&type=date&legend=top-left)
 
-
 ---
 
 ## 📜 License
